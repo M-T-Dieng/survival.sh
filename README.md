@@ -54,7 +54,7 @@ bash survival.sh
 
 ## 📸 Aperçu
 
-![survival.sh screenshot](screenshot.jpg)
+![survival.sh screenshot](screenshot.png)
 
 ---
 
@@ -80,6 +80,6 @@ bash survival.sh
 
 ## 👤 Auteur
 
-**MT** — Étudiant en Systèmes, Réseaux et Télécoms (SRT)  
+**Mor Tala Dieng** — Étudiant en Systèmes, Réseaux et Télécoms (SRT)  
 Université Alioune Diop de Bambey (UADB), Sénégal  
-🔗 [LinkedIn](https://linkedin.com/in/TONPROFIL) · [Portfolio](https://TONGITHUB.github.io)
+🔗 [LinkedIn](https://www.linkedin.com/in/mor-tala-dieng-676667344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) · [Portfolio](https://m-t-dieng.github.io/portfolio-MT-sec/)
